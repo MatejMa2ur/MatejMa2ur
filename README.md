@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning Power BI and Power BI Embeded
+- If you want to reach me: matej.mazur@studentpartner.com
 <!--
 **MatejMa2ur/MatejMa2ur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
