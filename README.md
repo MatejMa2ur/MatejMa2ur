@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Power BI, ASP.NET
 - If you want to reach me: matejmazur.net
-- 
 
 <!--
 **MatejMa2ur/MatejMa2ur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
