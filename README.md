@@ -1,5 +1,5 @@
 ### Hi, I'm Matej Mazúr <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/Author%20%40%20matejmazur.net-blogs-orange?style=flat-square)](matejmazur.net)
+[![Website](https://img.shields.io/badge/Author%20%40%20matejmazur.net-blogs%20&%20website-orange?style=flat-square)](matejmazur.net)
 
 ## Your short description
 - 🔭 I’m currently working on - My Website
