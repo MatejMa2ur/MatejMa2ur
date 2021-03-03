@@ -1,5 +1,5 @@
 ### Hi, I'm Matej Mazúr <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square&label=Student&url=spse-po.sk)](https://matejmazur.net)
+[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square&label=Student&style=spse-po.sk)](https://matejmazur.net)
 
 ## Your short description
 - 🔭 I’m currently working on - My Website
