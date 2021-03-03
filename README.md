@@ -1,16 +1,13 @@
 ### Hi, I'm Matej Mazúr <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
+[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://matejmazur.net)
 
 ## Your short description
-- 🔭 I’m currently working on - ❔❔❔❔
-- 🌱 I’m currently learning - ❔❔❔❔
-- 👯 I’m looking to collaborate with - ❔❔❔❔
-- 💬 Ask me about - ❔❔❔❔
-- 🥅 2020 Goal - ❔❔❔❔
-- ⚡ Fun fact - ❔❔❔❔
+- 🔭 I’m currently working on - My Website
+- 🌱 I’m currently learning - ASP.NET & Xamarin
+- 💬 Ask me about - Power BI
+- 🥅 2021 Goal - Go out with friends
+- ⚡ Fun fact - "If someone say to you: It is impossible. Try it and after that say, yes it is possible."
 
-<!-- ❔❔❔❔ means username in below README.md -->
-<!-- Also feel free to update second URL to any URL -->
 ![Matej Ma2ur's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatejMa2ur&theme=graywhite&show_icons=true)
 
 ## Connect with me:
