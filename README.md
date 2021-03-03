@@ -19,30 +19,11 @@
 <!-- Optional if you have blogs -->
 ## Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [ReadMe](https://matejmazur.net/Blog/Details?id=1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- This section you create this variables that are used above -->
-[website]: https://google.com
-[twitter]: https://twitter.com/indrajeet_nikam
-[linkedin]: https://www.linkedin.com/in/indrajeet-nikam-3737a8101/
+[website]: https://matejmazur.net
+[twitter]: https://twitter.com/matej_mazur
+[linkedin]: https://www.linkedin.com/in/matej-mazur/
 
-
-
-### Hi there 👋
-- 🌱 I’m currently learning Power BI, ASP.NET
-- If you want to reach me: matejmazur.net
-
-<!--
-**MatejMa2ur/MatejMa2ur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
