@@ -18,9 +18,10 @@
 <br />
 
 <!-- Optional if you have blogs -->
-## Latest blog posts:
+## Suggestions:
 <!-- BLOG-POST-LIST:START -->
-- [ReadMe](https://matejmazur.net/Blog/Details?id=1)
+- [TodayILearned](https://github.com/MatejMa2ur/TodayILearned)
+- [To watch later](https://github.com/MatejMa2ur/ToWatchLater)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- This section you create this variables that are used above -->
