@@ -1,6 +1,6 @@
-<div style="text-align:center">
+<p align="center">
     <img src="Icons\MatejMa2ur.png" width="300px"/>
-</div>
+</p>
 
 <h1 align="center">Hi, I'm Matej Mazur <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  </h1>  
 
