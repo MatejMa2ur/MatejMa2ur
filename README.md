@@ -63,11 +63,3 @@
 [linkedin]: https://www.linkedin.com/in/matej-mazur/
 [xbox]: https://xboxgamertag.com/search/Grimsborith
 [discord]: https://discordapp.com/users/405791730839846932
-
-<style>
-    .icon{
-        width: 30px;
-        margin-right: 15px;
-        filter: invert(34%) sepia(69%) saturate(1431%) hue-rotate(177deg) brightness(87%) contrast(108%);
-    }
-</style>
