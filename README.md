@@ -15,13 +15,13 @@
 
 <p align="center">
 <!-- This is all Media Where to Find Me -->
-    <a href="">
+    <a href="https://www.linkedin.com/in/matej-mazur/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=#FFFFFF"/>
     </a>
-    <a href="">
+    <a href="https://matejma2ur.github.io/questmat.github.io/">
         <img src="https://img.shields.io/badge/MatQuest.github.io-000000?style=for-the-badge&logo=GitHub%20Pages"/>
     </a>
-    <a href="">
+    <a href="https://xboxgamertag.com/search/Grimsborith">
         <img src="https://img.shields.io/badge/xbox-107C10.svg?style=for-the-badge&logo=xbox&logoColor=white"/>
     </a>
 </p>
