@@ -13,14 +13,14 @@
 "If someone say to you: It is impossible. Try it and after that say, yes it is possible."
 ```
 
-<div style="text-align:center">
+<p align="center">
 <!-- This is all Media Where to Find Me -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=#FFFFFF)][linkedin]
 [![Website](https://img.shields.io/badge/MatQuest.github.io-000000?style=for-the-badge&logo=GitHub%20Pages)][website]
 [![Xbox](https://img.shields.io/badge/xbox-107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)][xbox]
 
-</div>
+</p>
 
 ---
 ### 🛠 &nbsp;Languages and Tools :
@@ -40,10 +40,10 @@
 
 ---
 
-<div style="text-align:center">
+<p align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatejMa2ur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+</p>
 
 ---
 
