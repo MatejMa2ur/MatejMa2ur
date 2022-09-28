@@ -15,11 +15,15 @@
 
 <p align="center">
 <!-- This is all Media Where to Find Me -->
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=#FFFFFF)][linkedin]
-[![Website](https://img.shields.io/badge/MatQuest.github.io-000000?style=for-the-badge&logo=GitHub%20Pages)][website]
-[![Xbox](https://img.shields.io/badge/xbox-107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)][xbox]
-
+    <a href="">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=#FFFFFF"/>
+    </a>
+    <a href="">
+        <img src="https://img.shields.io/badge/MatQuest.github.io-000000?style=for-the-badge&logo=GitHub%20Pages"/>
+    </a>
+    <a href="">
+        <img src="https://img.shields.io/badge/xbox-107C10.svg?style=for-the-badge&logo=xbox&logoColor=white"/>
+    </a>
 </p>
 
 ---
@@ -41,8 +45,7 @@
 ---
 
 <p align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatejMa2ur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatejMa2ur&layout=compact"/>
 </p>
 
 ---
