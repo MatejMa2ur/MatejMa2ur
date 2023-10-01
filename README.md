@@ -50,13 +50,6 @@
 
 ---
 
-
-## Suggestions:
-<!-- BLOG-POST-LIST:START -->
-- [TodayILearned](https://github.com/MatejMa2ur/TodayILearned)
-- [To watch later](https://github.com/MatejMa2ur/ToWatchLater)
-<!-- BLOG-POST-LIST:END -->
-
 <!-- This section you create this variables that are used above -->
 [website]: https://matejma2ur.github.io/questmat.github.io/
 [twitter]: https://twitter.com/matej_mazur
