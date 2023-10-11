@@ -45,7 +45,7 @@
 ---
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatejMa2ur&layout=compact"/>
+    <img src="https://github-readme-stats-theta-amber-33.vercel.app/api/top-langs/?username=MatejMa2ur&layout=compact&include_all_commits=true&count_private=true"/>
 </p>
 
 ---
