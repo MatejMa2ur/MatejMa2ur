@@ -2,7 +2,7 @@
     <img src="Icons\MatejMa2ur.png" width="300px"/>
 </p>
 
-<h1 align="center">Hi, I'm Matej Mazur <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  </h1>  
+<h1 align="center">Let's create future!</h1>  
 
 <p align="center">
     <a href="http://easv.dk"><img src="https://img.shields.io/badge/student%20%40%20easv.dk-Computer%20Science-fbbb2c?style=for-the-badge"/>
