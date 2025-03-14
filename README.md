@@ -5,7 +5,7 @@
 <h1 align="center">Let's create future!</h1>  
 
 <p align="center">
-    <a href="http://easv.dk"><img src="https://img.shields.io/badge/student%20%40%20easv.dk-Computer%20Science-fbbb2c?style=for-the-badge"/>
+    <a href="http://easv.dk"><img src="https://img.shields.io/badge/student%20%40%20easv.dk-Software%20Development-fbbb2c?style=for-the-badge"/>
     </a>
 </p>
 
